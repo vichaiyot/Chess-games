@@ -1,0 +1,43 @@
+C:\Users\Lanovo\OneDrive\Desktop\C#\kk\kk\bin\Debug\kk.exe.config
+C:\Users\Lanovo\OneDrive\Desktop\C#\kk\kk\bin\Debug\kk.exe
+C:\Users\Lanovo\OneDrive\Desktop\C#\kk\kk\bin\Debug\kk.pdb
+C:\Users\Lanovo\OneDrive\Desktop\C#\kk\kk\obj\Debug\kk.csproj.AssemblyReference.cache
+C:\Users\Lanovo\OneDrive\Desktop\C#\kk\kk\obj\Debug\kk.Form1.resources
+C:\Users\Lanovo\OneDrive\Desktop\C#\kk\kk\obj\Debug\kk.Properties.Resources.resources
+C:\Users\Lanovo\OneDrive\Desktop\C#\kk\kk\obj\Debug\kk.csproj.GenerateResource.cache
+C:\Users\Lanovo\OneDrive\Desktop\C#\kk\kk\obj\Debug\kk.csproj.CoreCompileInputs.cache
+C:\Users\Lanovo\OneDrive\Desktop\C#\kk\kk\obj\Debug\kk.exe
+C:\Users\Lanovo\OneDrive\Desktop\C#\kk\kk\obj\Debug\kk.pdb
+C:\Users\Ssupp\OneDrive\Desktop\kk\kk\bin\Debug\kk.exe.config
+C:\Users\Ssupp\OneDrive\Desktop\kk\kk\bin\Debug\kk.exe
+C:\Users\Ssupp\OneDrive\Desktop\kk\kk\bin\Debug\kk.pdb
+C:\Users\Ssupp\OneDrive\Desktop\kk\kk\obj\Debug\kk.csproj.AssemblyReference.cache
+C:\Users\Ssupp\OneDrive\Desktop\kk\kk\obj\Debug\kk.Form1.resources
+C:\Users\Ssupp\OneDrive\Desktop\kk\kk\obj\Debug\kk.Properties.Resources.resources
+C:\Users\Ssupp\OneDrive\Desktop\kk\kk\obj\Debug\kk.csproj.GenerateResource.cache
+C:\Users\Ssupp\OneDrive\Desktop\kk\kk\obj\Debug\kk.csproj.CoreCompileInputs.cache
+C:\Users\Ssupp\OneDrive\Desktop\kk\kk\obj\Debug\kk.exe
+C:\Users\Ssupp\OneDrive\Desktop\kk\kk\obj\Debug\kk.pdb
+C:\Users\Ssupp\OneDrive\Desktop\kk\kk\obj\Debug\kk.Form2.resources
+C:\Users\Ssupp\OneDrive\Desktop\อดนอนหมากรุก\kk\bin\Debug\kk.exe.config
+C:\Users\Ssupp\OneDrive\Desktop\อดนอนหมากรุก\kk\bin\Debug\kk.exe
+C:\Users\Ssupp\OneDrive\Desktop\อดนอนหมากรุก\kk\bin\Debug\kk.pdb
+C:\Users\Ssupp\OneDrive\Desktop\อดนอนหมากรุก\kk\obj\Debug\kk.csproj.AssemblyReference.cache
+C:\Users\Ssupp\OneDrive\Desktop\อดนอนหมากรุก\kk\obj\Debug\kk.Form1.resources
+C:\Users\Ssupp\OneDrive\Desktop\อดนอนหมากรุก\kk\obj\Debug\kk.Form2.resources
+C:\Users\Ssupp\OneDrive\Desktop\อดนอนหมากรุก\kk\obj\Debug\kk.Properties.Resources.resources
+C:\Users\Ssupp\OneDrive\Desktop\อดนอนหมากรุก\kk\obj\Debug\kk.csproj.GenerateResource.cache
+C:\Users\Ssupp\OneDrive\Desktop\อดนอนหมากรุก\kk\obj\Debug\kk.csproj.CoreCompileInputs.cache
+C:\Users\Ssupp\OneDrive\Desktop\อดนอนหมากรุก\kk\obj\Debug\kk.exe
+C:\Users\Ssupp\OneDrive\Desktop\อดนอนหมากรุก\kk\obj\Debug\kk.pdb
+C:\Users\Ssupp\OneDrive\Desktop\first file\อดนอนหมากรุก\kk\bin\Debug\kk.exe.config
+C:\Users\Ssupp\OneDrive\Desktop\first file\อดนอนหมากรุก\kk\bin\Debug\kk.exe
+C:\Users\Ssupp\OneDrive\Desktop\first file\อดนอนหมากรุก\kk\bin\Debug\kk.pdb
+C:\Users\Ssupp\OneDrive\Desktop\first file\อดนอนหมากรุก\kk\obj\Debug\kk.csproj.AssemblyReference.cache
+C:\Users\Ssupp\OneDrive\Desktop\first file\อดนอนหมากรุก\kk\obj\Debug\kk.Form1.resources
+C:\Users\Ssupp\OneDrive\Desktop\first file\อดนอนหมากรุก\kk\obj\Debug\kk.Form2.resources
+C:\Users\Ssupp\OneDrive\Desktop\first file\อดนอนหมากรุก\kk\obj\Debug\kk.Properties.Resources.resources
+C:\Users\Ssupp\OneDrive\Desktop\first file\อดนอนหมากรุก\kk\obj\Debug\kk.csproj.GenerateResource.cache
+C:\Users\Ssupp\OneDrive\Desktop\first file\อดนอนหมากรุก\kk\obj\Debug\kk.csproj.CoreCompileInputs.cache
+C:\Users\Ssupp\OneDrive\Desktop\first file\อดนอนหมากรุก\kk\obj\Debug\kk.exe
+C:\Users\Ssupp\OneDrive\Desktop\first file\อดนอนหมากรุก\kk\obj\Debug\kk.pdb
